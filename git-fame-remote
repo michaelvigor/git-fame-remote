@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker run --rm michaelvigor/git-fame-remote "$@"
